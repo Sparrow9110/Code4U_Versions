@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"minor update"}
+{"version":"1.0.2", "notes":"Draggable killfeed"}
