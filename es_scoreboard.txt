@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"bug fixing"}
+{"version":"2.0.2", "notes":"bug fixing"}
